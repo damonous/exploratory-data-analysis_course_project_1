@@ -1,2 +1,2 @@
-# exploratory-data-analysis_course_project_1
-Coursera Exploratory Data Analysis Course Project 1
+# Exploratory_Data_Analysis_project_1
+Repository for assignment 1 of the Exploratory Data Analysis course.
